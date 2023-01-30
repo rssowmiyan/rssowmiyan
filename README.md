@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rssowmiyan, a budding software engineer.
+- 👋 Hi, I’m @rssowmiyan, a budding software engineer with a strong foundation in computer science fundamentals.
 - 👀 I’m interested in backend engineering.
 - 🌱 I’m currently learning ElasticSearch & Redis.
 - 📫 Reach out to me : https://www.linkedin.com/in/srinivasa-sowmiyan/
