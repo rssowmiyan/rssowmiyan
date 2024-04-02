@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I’m @rssowmiyan, a budding software engineer with a strong foundation in computer science fundamentals. I’m interested in Frontend engineering. Aspiring to be a T shaped developer.</h1>
+<h2 align="center">Hi, I’m @rssowmiyan, a budding software engineer with a strong foundation in computer science fundamentals. Aspiring to be a T shaped developer.</h1>
 
-- 🌱 I’m currently exploring Server-side rendering via Next.js.
+- 🌱 I’m currently exploring Spring framework.
 - 📫 Reach out to me **sowmiyan00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
