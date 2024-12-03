@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I’m @rssowmiyan, a budding software engineer with a strong foundation in computer science fundamentals. Aspiring to be a T shaped developer.</h1>
 
-- 🌱 I’m currently exploring Spring framework.
+- 🌱 I’m currently exploring JAVA and Spring.
 - 📫 Reach out to me **sowmiyan00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
